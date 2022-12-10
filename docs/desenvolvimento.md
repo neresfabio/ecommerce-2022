@@ -80,9 +80,14 @@ Para criar o projeto Spring Boot utilizou-se a platforma [spring initializr](htt
 
 ## Projeto
 
+> **Modelo para o banco de dados**
+
+![Diagrama sem nome drawio (2)](https://user-images.githubusercontent.com/50967217/206866258-03fbddef-872a-45e3-a6aa-679f9d2ca164.png)
+
 > **Criação das entidades**
 
 - [x] Entities
+
 
 
 
