@@ -5,6 +5,7 @@
 * [Metodologia](#metodologia)
 * [Ferramentas](#ferramentas-selecionadas)
 * [Depêndencias](#dependências)
+* [Projeto](#projeto)
 
 ## Metodologia
 
@@ -76,4 +77,14 @@ Para criar o projeto Spring Boot utilizou-se a platforma [spring initializr](htt
 - **MySQL Driver**: driver para conectar ao banco de dados.
 
 - **Spring Data JPA**: para a persistência dos dados.
+
+## Projeto
+
+> **Criação das entidades**
+
+[x] Entities
+
+
+
+
 
