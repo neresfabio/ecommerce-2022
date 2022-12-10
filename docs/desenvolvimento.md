@@ -82,7 +82,7 @@ Para criar o projeto Spring Boot utilizou-se a platforma [spring initializr](htt
 
 > **Criação das entidades**
 
-[x] Entities
+- [x] Entities
 
 
 
