@@ -2,12 +2,10 @@
 
 ## Índice
 
-- [Desenvolvimento](#desenvolvimento)
-  - [Índice](#índice)
-  - [Metodologia](#metodologia)
-  - [Ferramentas Selecionadas](#ferramentas-selecionadas)
-  - [Dependências](#dependências)
-  - [Projeto](#projeto)
+* [Metodologia](#metodologia)
+* [Ferramentas Selecionadas](#ferramentas-selecionadas)
+* [Dependências](#dependências)
+* [Projeto](#projeto)
 
 ## Metodologia
 
