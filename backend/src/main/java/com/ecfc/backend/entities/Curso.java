@@ -1,5 +1,7 @@
 package com.ecfc.backend.entities;
 
+import com.ecfc.backend.controllers.dtos.CursoDTO;
+
 import javax.persistence.*;
 import java.io.Serializable;
 import java.util.Date;
@@ -18,6 +20,15 @@ public class Curso implements Serializable {
     private Date dataEntrada;
     @Temporal(TemporalType.TIMESTAMP)
     private Date dataAtualizacao;
+
+    public Curso() {
+    }
+
+    public Curso(CursoDTO cursoDTO) {
+        this.titulo = cursoDTO.getTitulo();
+        this.descricao = cursoDTO.getDescricao();
+        this.preco = cursoDTO.getPreco();
+    }
 
     public Long getId() {
         return id;

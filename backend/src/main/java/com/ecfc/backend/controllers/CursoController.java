@@ -1,5 +1,6 @@
 package com.ecfc.backend.controllers;
 
+import com.ecfc.backend.controllers.dtos.CursoDTO;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.web.PageableDefault;

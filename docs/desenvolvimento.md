@@ -98,11 +98,44 @@ spring.jpa.properties.hibernate.format_sql=true
 > **Criação das entidades**
 
 - [x] **Curso**
+- [] **Turma**
+- [] **Matricula**
+- [] **Permissao**
+- [] **PermissaoUsuario**
+- [] **Usuario**
 
 > **Repositories**
 
-- [x] **Curso**
+- [x] **CursoRepository**
+- [x] **TurmaRepository**
+- [x] **MatriculaRepository**
+- [x] **PermissaoRepository**
+- [x] **PermissaoUsuarioRepository**
+- [x] **UsuarioRepository**
 
->
+> **Controllers**
 
+- [x] **CursoController**
+- [x] **TurmaController**
+- [x] **MatriculaController**
+- [x] **PermissaoController**
+- [x] **PermissaoUsuarioController**
+- [x] **UsuarioController**
 
+> **DTOs**
+
+- [x] **CursoController**
+- [] **TurmaController**
+- [] **MatriculaController**
+- [] **PermissaoController**
+- [] **PermissaoUsuarioController**
+- [] **UsuarioController**
+
+> **Service**
+
+- [x] IService
+- [x] IServiceCreate
+
+> **Impls**
+
+- [x] CursoCreateImpl
