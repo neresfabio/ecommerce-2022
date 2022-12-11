@@ -99,8 +99,10 @@ spring.jpa.properties.hibernate.format_sql=true
 
 - [x] **Curso**
 
+> **Repositories**
 
+- [x] **Curso**
 
-
+>
 
 
