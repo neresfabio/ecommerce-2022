@@ -11,9 +11,8 @@
 
 > Modelo Iterativo
 
-```
 Para esse projeto o modelo adotado para orientar no desenvolvimento é o modelo iterativo, para ser entregue um produto com qualidade, que corresponda com as expectativas do cliente. O processo iterativo permite a subdivisão de tarefas, onde a cada ciclo pode-se analisar e refinar pouco a pouco o sistema.
-```
+
 **Processo**:
 
 * Análise de requisitos;
