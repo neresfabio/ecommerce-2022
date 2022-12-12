@@ -98,11 +98,11 @@ spring.jpa.properties.hibernate.format_sql=true
 > **Criação das entidades**
 
 - [x] **Curso**
-- [] **Turma**
-- [] **Matricula**
-- [] **Permissao**
-- [] **PermissaoUsuario**
-- [] **Usuario**
+- [x] **Turma**
+- [ ] **Matricula**
+- [x] **Permissao**
+- [ ] **PermissaoUsuario**
+- [ ] **Usuario**
 
 > **Repositories**
 
@@ -125,11 +125,11 @@ spring.jpa.properties.hibernate.format_sql=true
 > **DTOs**
 
 - [x] **CursoController**
-- [] **TurmaController**
-- [] **MatriculaController**
-- [] **PermissaoController**
-- [] **PermissaoUsuarioController**
-- [] **UsuarioController**
+- [ ] **TurmaController**
+- [ ] **MatriculaController**
+- [ ] **PermissaoController**
+- [ ] **PermissaoUsuarioController**
+- [ ] **UsuarioController**
 
 > **Service**
 
@@ -139,3 +139,7 @@ spring.jpa.properties.hibernate.format_sql=true
 > **Impls**
 
 - [x] CursoCreateImpl
+
+> Relacinamento entre tabelas
+
+- [x] `@ManyToOne` : Turma/Curso
